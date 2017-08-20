@@ -23,9 +23,12 @@
   
     
     <entry>
-      <title><![CDATA[Description:Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.]]></title>
+      <title><![CDATA[About]]></title>
       <url>/about/index.html</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<blockquote>
+<p>Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.</p>
+</blockquote>
+]]></content>
     </entry>
     
     <entry>
